@@ -4,6 +4,8 @@
 
 Everyone is welcome to contribute to this project. We've created a document that describes guidelines for [contributing to the CNCF.io git repository](/CONTRIBUTING.md).
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=606353134&machine=basicLinux32gb&devcontainer_path=.devcontainer%2Fdevcontainer.json&location=EastUs)
+
 # CNCF.io Developer Instructions
 
 These instructions are based on you having access to the CNCF.io Pantheon account (and the CNCF.io WordPress database).
